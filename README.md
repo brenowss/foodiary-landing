@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Foodiary Landing Page
 
-## Getting Started
+This is the marketing landing page for **Foodiary**, an AI-powered nutrition and diet tracking app currently in development.
 
-First, run the development server:
+**All numbers and data is mocked, and should not be taken seriously (yet...)**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ✨ What’s Inside
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This project explores modern web practices to boost product visibility and user engagement before launch:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **A/B Testing with GrowthBook**  
+  Used to test UI variations and feature flags to experiment with conversion strategies in a real-world scenario.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Headless CMS with Sanity.io**  
+  A blog section powered by Sanity enables dynamic content updates without redeploying the site.
 
-## Learn More
+## 🧪 Why Experiment
 
-To learn more about Next.js, take a look at the following resources:
+This setup allows me to explore strategies that support growth and content flexibility early in the product lifecycle — combining developer experience with marketing adaptability.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🛠 Tech Stack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Vite + React
+- Tailwind CSS
+- GrowthBook SDK
+- Sanity.io
+- TypeScript
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+> This project is part of the foundation for the future launch of the Foodiary app.
