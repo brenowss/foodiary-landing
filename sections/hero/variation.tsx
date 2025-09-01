@@ -1,11 +1,11 @@
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
-import { ArrowRight, Check } from "lucide-react";
+import { ArrowRight, Check, Star } from "lucide-react";
 import Image from "next/image";
 
-export default function HeroSectionControl() {
+export default function HeroSectionVariation() {
   return (
-    <section className="py-16 md:py-24 lg:py-32">
+    <section className="py-8">
       <div className="container mx-auto px-4 md:px-6">
         <div className="grid gap-12 lg:grid-cols-2 lg:gap-16 items-center">
           <div className="space-y-8">
@@ -31,19 +31,15 @@ export default function HeroSectionControl() {
                 Start Your Journey
                 <ArrowRight className="ml-2 h-5 w-5" />
               </Button>
-              <Button variant="outline" size="lg" className="text-lg px-8 border-green-200 text-green-700 hover:bg-green-50">
+              {/* <Button variant="outline" size="lg" className="text-lg px-8 border-green-200 text-green-700 hover:bg-green-50">
                 Watch Demo
-              </Button>
+              </Button> */}
             </div>
 
             <div className="flex items-center space-x-8 text-sm text-gray-500">
               <div className="flex items-center space-x-2">
                 <Check className="h-4 w-4 text-green-500" />
-                <span>Free 30-day trial</span>
-              </div>
-              <div className="flex items-center space-x-2">
-                <Check className="h-4 w-4 text-green-500" />
-                <span>No credit card needed</span>
+                <span>3-day free trial</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Check className="h-4 w-4 text-green-500" />

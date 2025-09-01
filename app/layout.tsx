@@ -1,7 +1,9 @@
 import type { Metadata } from 'next'
 import { GeistSans } from 'geist/font/sans'
 import { GeistMono } from 'geist/font/mono'
+import "@fontsource/instrument-serif";
 import './globals.css'
+import Header from '@/sections/header'
 
 export const metadata: Metadata = {
   title: 'Foodiary',
@@ -25,7 +27,10 @@ html {
 }
         `}</style>
       </head>
-      <body>{children}</body>
+      <body>
+        <Header />
+        {children}
+      </body>
     </html>
   )
 }
