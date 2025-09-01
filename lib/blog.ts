@@ -1,6 +1,6 @@
-import { sanityClient } from "./sanity";
+import { sanityClient } from './sanity';
 
-type Post = {
+export type Post = {
   _id: string;
   title: string;
   slug: {

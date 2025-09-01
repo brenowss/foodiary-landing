@@ -8,8 +8,14 @@ import { Input } from "@/components/ui/input"
 import { Search, Calendar, Clock, ArrowRight, Tag, Filter } from 'lucide-react'
 import Image from "next/image"
 import Link from 'next/link'
+import type { Post } from '@/lib/blog'
 
-export default function BlogControl({ posts: blogPosts, categories }) {
+interface BlogControlProps {
+  posts: Post[]
+  categories: string[]
+}
+
+export default function BlogControl({ posts: blogPosts, categories }: BlogControlProps) {
   const [selectedCategory, setSelectedCategory] = useState("All")
   const [filteredPosts, setFilteredPosts] = useState(blogPosts)
 
@@ -22,7 +28,7 @@ export default function BlogControl({ posts: blogPosts, categories }) {
     let filtered = blogPosts
 
     if (category !== "All") {
-      filtered = filtered.filter(post => post.categories.some(c => c.title === category))
+      filtered = filtered.filter(post => post.categories.some((c: { title: string }) => c.title === category))
     }
 
     setFilteredPosts(filtered)
@@ -205,7 +211,7 @@ export default function BlogControl({ posts: blogPosts, categories }) {
                 </div>
 
                 <div className="flex flex-wrap gap-2">
-                  {post.categories.slice(0, 3).map((category) => (
+                  {post.categories.slice(0, 3).map((category: { title: string }) => (
                     <Badge key={category.title} variant="outline" className="text-xs border-green-200 text-green-700 hover:bg-green-50">
                       <Tag className="h-3 w-3 mr-1" />
                       {category.title}

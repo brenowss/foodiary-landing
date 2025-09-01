@@ -1,4 +1,4 @@
-import { heroSectionFlag } from "@/app/page";
+import { heroSectionFlag } from '@/lib/flags';
 import HeroSectionControl from "./control";
 import HeroSectionVariation from "./variation";
 

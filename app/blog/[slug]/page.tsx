@@ -23,8 +23,9 @@ async function getPost(slug: string) {
   return sanityClient.fetch(POST_QUERY, { slug });
 }
 
-export default async function BlogPostPage({ params }: { params: { slug: string } }) {
-  const post = await getPost(params.slug);
+export default async function BlogPostPage(props: { params: Promise<{ slug: string }> }) {
+  const { slug } = await props.params;
+  const post = await getPost(slug as string);
 
   if (!post) {
     return <div>Post not found</div>;
