@@ -1,0 +1,190 @@
+Terms & Conditions (Terms of Use)
+
+Last updated: August 27, 2025
+
+Welcome to Foodiary (the “App” or “Service”). These Terms & Conditions (the “Terms”) form a legally binding agreement between you (“you”, “User”) and Breno Carra Fiorese (“we”, “us”, “our”), the sole developer and operator of Foodiary.
+
+By downloading, accessing, or using Foodiary, you agree to these Terms. If you do not agree, do not use the App.
+
+For information about how we collect and process personal data, please see our Privacy Policy (linked in-app/website).
+
+1. Who We Are & Contact
+
+Owner/Operator: Breno Carra Fiorese
+Contact: appfoodiary@gmail.com
+
+2. Eligibility
+
+You must be at least 16 years old to use Foodiary. By using the App, you represent that you are 16+ and legally capable of entering into these Terms under applicable law. If you are not eligible, you must not access or use the Service.
+
+3. Account, Sign-In & Deletion
+
+Account required. You need an account to use Foodiary. You may create an account either by:
+
+Signing in with Apple (Sign in with Apple / Apple SSO), or
+
+Registering with your email address and a password.
+
+Password security. If you register with email/password, you are responsible for choosing and protecting your password and any sign-in credentials. Do not share your login credentials. Notify us immediately if you suspect unauthorized access.
+
+Your responsibilities. You’re responsible for all activity under your account and for keeping your account details, device, and sign-in methods secure.
+
+Verification. We may require email verification for account creation and may block or suspend registrations that appear fraudulent or violate these Terms.
+
+Deletion. You can delete your account at any time from within the App (or by contacting us). Account deletion will terminate access to paid features in accordance with Section 4 and our Privacy Policy.
+
+4. Subscriptions, Free Trial & Billing
+
+Paid Service. Foodiary is a paid service from the outset. We offer subscription billing options as described below.
+
+Subscription options. We offer at least the following plan types:
+
+Monthly subscription (billed once per month), and
+
+Annual subscription (billed once per year). The Annual plan may include promotional terms (see Free Trial).
+
+Free trial (Annual only). When you choose the Annual plan, you may be offered a 3-day free trial (where promoted). If you do not cancel before the trial ends, your account will be charged at the applicable Annual rate.
+
+Automatic renewal. Subscriptions automatically renew at the end of each billing period unless cancelled before the renewal date.
+
+Billing provider. RevenueCat is used by us to manage subscription receipts, entitlement status, and related billing functionality. RevenueCat handles the billing flow and communication with the app stores. We do not control the payment rails used by the app stores and generally do not access your raw payment card details; for billing disputes, refunds, or store-level issues follow the app store or RevenueCat guidance (see below).
+
+Manage & cancel. You can manage or cancel your subscription through your app store account (e.g., Apple App Store) or as instructed in-app. Cancelling a subscription will prevent future renewals but will not necessarily entitle you to a refund unless the app store or RevenueCat policy provides one.
+
+Refunds. Refunds and chargebacks are governed primarily by the app store (e.g., Apple) and RevenueCat procedures. We do not control refunds processed by the app stores; you may request refund assistance from the store or via RevenueCat, but we cannot guarantee outcomes.
+
+Price changes. We may change prices, subscription features, and promotional offers prospectively. If we change price materially, we will notify you via in-app notice and/or email as required by applicable rules.
+
+5. AI & Health — Important Disclaimers (Read Carefully)
+
+Foodiary uses AI to generate personalized calorie and macronutrient recommendations and other analysis. These features may be powered by third-party AI models.
+
+By using the App you acknowledge and agree to all of the following:
+
+Not medical advice. Foodiary’s recommendations and content are for informative purposes only and are not medical, nutritional, diagnostic, or therapeutic advice. They are not a substitute for consultation with qualified healthcare professionals.
+
+No professional relationship. Use of Foodiary does not create a doctor/patient, dietitian/client, or other professional relationship with any party.
+
+Consult professionals. Before making any major dietary, exercise, or health changes — particularly if you have medical conditions, are pregnant, nursing, have or are recovering from an eating disorder, or take medication — consult a qualified healthcare professional.
+
+Model limitations. AI models can produce inaccurate, incomplete, biased, or unexpected outputs. We do not guarantee accuracy, safety, or suitability of AI outputs for any particular purpose.
+
+User responsibility & risk. You are solely responsible for decisions and actions you take based on App content. You accept that using the App is at your own risk.
+
+No guarantees. We make no guarantees about health or fitness outcomes resulting from use of the App.
+
+No emergency use. The App is not intended for emergency or urgent medical situations. In emergencies, contact local emergency services immediately.
+
+Sensitive inputs. Avoid entering extremely sensitive personal data unless you consent and understand how such data is handled (see our Privacy Policy). If you choose to provide health or other sensitive information, you give explicit consent to process that data for the stated Service purposes.
+
+Third-party AI provider. AI processing may occur via third-party providers (for example, OpenAI). We do not control those models’ internal behavior and disclaim liability for model results to the fullest extent allowed by law.
+
+Indemnity for misuse. You agree not to hold us liable for decisions you make based on AI outputs and to follow this section’s guidance.
+
+6. License & Acceptable Use
+
+License. We grant you a limited, personal, revocable, non-exclusive, non-transferable license to use the App on devices you own or control, solely for lawful, personal use and in accordance with these Terms.
+
+Prohibited conduct. You must not:
+
+use the App for unlawful or harmful purposes or to violate others’ rights;
+
+upload or share illegal, infringing, abusive, sexually explicit or hateful content;
+
+attempt to copy, modify, reverse engineer, decompile, disassemble, or derive source code from the App (except to the extent local law prohibits such restrictions);
+
+scrape, harvest, or automatically collect data from the App except through documented APIs provided by us;
+
+bypass or interfere with security features, rate limits, or access controls;
+
+resell, sublicence, or commercially exploit the App or outputs;
+
+use the App to build a competing product or service using proprietary materials or confidential information.
+
+User content. You retain ownership of the content you submit (e.g., food logs, notes). By submitting content you grant us a worldwide, non-exclusive, royalty-free license to host, store, display, and use that content to operate and improve the Service, including for analytics and developing/improving AI features. You represent that you own or have rights to all submitted content and that it does not violate laws or third-party rights.
+
+Third-party IP. All App software, branding, and content provided by us remain our property or the property of our licensors. Nothing in these Terms transfers ownership except for your limited license to use the App.
+
+7. Third-Party Services, Roles & Data Flow
+
+We rely on third-party services and infrastructure to deliver the App. Below are the main third-party roles and how they relate to your data and the App:
+
+RevenueCat (billing & subscription management). RevenueCat manages purchase receipts, entitlement status, and subscription lifecycle. RevenueCat is used only for billing/subscription orchestration and does not provide the App’s AI or hosting services. Billing data and purchase receipts may be stored and processed by RevenueCat and the app store; for payment disputes or detailed billing history you may need to contact your store or RevenueCat.
+
+OpenAI (AI model provider). We use third-party AI models (for example, provider(s) such as OpenAI) to perform AI analysis and generate recommendations. When you use AI features, certain inputs and derived data may be transmitted to and processed by such providers. These providers operate under their own terms and privacy policies. We take steps to minimize the data shared and to avoid transmitting unnecessary sensitive identifiers, but by using the App you consent to that processing as described in our Privacy Policy.
+
+Amazon Web Services — serverless hosting & processing. We host and run the Service on AWS serverless infrastructure to scale and process user requests. This may include serverless compute (e.g., AWS Lambda), API endpoints (e.g., API Gateway), object storage (e.g., S3), and managed databases or other serverless components — collectively “AWS serverless infrastructure.” AWS is an independent third-party provider and operates under its own terms and privacy policies. We implement technical and organizational safeguards (e.g., encryption, access controls) on top of AWS.
+
+Other providers. We may also use analytics, crash reporting, or other third-party services (e.g., analytics providers). These vendors are independent and bound by their own terms.
+
+No warranty of third parties. We do not control third-party availability, reliability, or privacy practices. To the furthest extent permitted by law, we are not responsible for third-party failures, outages, or data handling beyond our direct control.
+
+Your responsibility. Where required by law, you authorize and consent to our sharing of necessary data with the providers above to operate the Service (including billing, hosting, and AI processing). See our Privacy Policy for details on what we share and how to exercise data rights.
+
+8. Service Availability, Changes & Beta Features
+
+We may add, modify, suspend, or remove features or the entire Service at any time. Certain features may be labeled experimental or beta and may change without notice. We are not liable for any modification, suspension, or discontinuation of the Service except as required by applicable law.
+
+9. Suspension & Termination
+
+We may suspend or terminate your access immediately (with or without notice) if:
+
+you breach these Terms or applicable law;
+
+we detect fraudulent behavior, security risks, or misuse;
+
+we reasonably consider it necessary to protect users, the Service, or our systems.
+
+On termination, you lose access to paid features and your account. Certain provisions will survive termination (including disclaimers, limitation of liability, indemnity, and jurisdiction clauses).
+
+10. Warranties & Limitation of Liability
+
+THE APP IS PROVIDED “AS IS” AND “AS AVAILABLE.” To the maximum extent permitted by law, we disclaim all warranties, express or implied (including merchantability, fitness for a particular purpose, and non-infringement). We do not warrant uninterrupted, error-free, or secure operation.
+
+To the maximum extent permitted by law, we will not be liable for indirect, incidental, special, consequential, or punitive damages, including but not limited to loss of profits, data, or goodwill, arising from or related to your use of the App. Our aggregate liability for direct damages shall not exceed the amounts you paid to us for the Service in the 12 months preceding the claim (or USD 50 if greater).
+
+Some jurisdictions do not permit certain limitations of liability; if such laws apply, our liability will be limited to the minimal extent required and your mandatory consumer rights will apply.
+
+11. Indemnification
+
+You agree to indemnify, defend, and hold harmless us and our officers, employees, contractors, and agents from any claims, losses, liabilities, damages, costs, or expenses (including reasonable attorneys’ fees) arising out of your use of the App, your content, your violation of these Terms, or your infringement of third-party rights.
+
+12. Governing Law & Jurisdiction
+
+These Terms are governed by the laws of Brazil. You and we submit to the exclusive jurisdiction of the state and federal courts located in São Paulo, State of São Paulo, Brazil, for any disputes arising under these Terms.
+
+If you are a consumer in a jurisdiction that mandates alternative venues or protections, those mandatory local rights will apply.
+
+13. Changes to These Terms
+
+We may update these Terms from time to time. Updated Terms will be posted on our website and/or in-app. Changes take effect upon posting (or on a later date stated in the notice). Continued use of the App after updates means you accept the new Terms.
+
+14. Apple-Specific Terms (iOS)
+
+If you access the App via an Apple device, these additional terms apply:
+
+These Terms are between you and us, not Apple. Apple is not responsible for the App or its content.
+
+Apple has no obligation to furnish maintenance or support for the App.
+
+Any claims related to the App’s conformity with laws or IP infringement are our responsibility (not Apple’s).
+
+You represent that you are not located in a country subject to U.S. embargoes or listed on U.S. restricted parties lists.
+
+Apple and its subsidiaries are third-party beneficiaries of these Terms and have the right to enforce them.
+
+15. Miscellaneous
+
+Severability. If any provision is invalid or unenforceable, the remainder will remain in force.
+
+No waiver. Our failure to enforce any right is not a waiver of that right.
+
+Assignment. You may not assign these Terms without our prior written consent. We may assign in connection with a sale, merger, or reorganization.
+
+Entire agreement. These Terms and referenced policies (including the Privacy Policy) are the entire agreement between you and us regarding the App.
+
+Language. These Terms are provided in English. Any translation is for convenience only.
+
+Contact
+
+If you have questions about these Terms, please contact us at: appfoodiary@gmail.com

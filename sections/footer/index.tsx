@@ -24,16 +24,16 @@ export default function Footer() {
           <div className="space-y-6">
             <h4 className="text-lg font-semibold text-gray-900">Quick Links</h4>
             <div className="grid grid-cols-2 gap-4">
-              <Link href="#" className="text-gray-600 hover:text-lime-600 transition-all duration-200">
+              <Link href="/documents/Terms & Conditions.txt" className="text-gray-600 hover:text-lime-600 transition-all duration-200">
                 Terms and Conditions
               </Link>
-              <Link href="#" className="text-gray-600 hover:text-lime-600 transition-all duration-200">
+              <Link href="/documents/Privacy Policy.txt" className="text-gray-600 hover:text-lime-600 transition-all duration-200">
                 Privacy Policy
               </Link>
               <Link href="#" className="text-gray-600 hover:text-lime-600 transition-all duration-200">
                 Download
               </Link>
-              <Link href="#" className="text-gray-600 hover:text-lime-600 transition-all duration-200">
+              <Link href="mailto:appfoodiary@gmail.com" className="text-gray-600 hover:text-lime-600 transition-all duration-200">
                 Contact Us
               </Link>
             </div>
